@@ -1,0 +1,51 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    text-decoration: underline purple;
+    color: orange;
+    text-align: center;
+
+}
+div.smr{
+    background-color: rgb(247, 163, 191);
+}
+div.dam{
+    background-color: rgb(94, 92, 92) ;
+}
+div.asir{
+    background-color: aquamarine;
+}
+a.smr{
+    color: rgb(0, 0, 126);
+    margin-left: 300px;
+}
+a.dam{
+    color: rgb(0, 0, 126);
+    margin-left: 750px;
+}
+a.asir{
+    color: rgb(0, 0, 126);
+    margin-left: 1050px
+}
+img.smr{
+    margin-left: 300px;
+}
+img.dam{
+    margin-left: 620px;
+}
+img.asir{
+    margin-left: 1050px   
+}
+
+div.end{
+    background-color: yellow;
+}
+p.footer{
+    text-align: center;
+    color: blue;
+}
+p.nombre{
+    color: red;
+
+}

@@ -1,0 +1,20 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    text-decoration: underline purple;
+    color: orange;
+    text-align: center;
+
+}
+div.end{
+    background-color: yellow;
+}
+p.footer{
+    text-align: center;
+    color: blue;
+}
+p.nombre{
+    color: red;
+
+}
